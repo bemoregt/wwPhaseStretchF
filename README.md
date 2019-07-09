@@ -1,9 +1,9 @@
 # ofxPhaseStretchF
 Phase stretch filter for Openframeworks using ofxOpenCv
 
-![detection example]( https://raw.githubusercontent.com/bemoregt/ofxSpectralSaliency-/master/ScrShot%2016.png "saliency map")
+![PST example]( https://github.com/bemoregt/ofxPhaseStretchF/blob/master/test.jpg "example")
 
-![detection example]( https://raw.githubusercontent.com/bemoregt/ofxSpectralSaliency-/master/ScrShot%208.png "saliency map2")
+![PST example]( https://github.com/bemoregt/ofxPhaseStretchF/blob/master/test.jpg "example2")
 
 ### Dependency
 - OpenFrameworks 0.10.1
