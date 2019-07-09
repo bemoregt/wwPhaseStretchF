@@ -3,7 +3,7 @@ Phase stretch filter for Openframeworks using ofxOpenCv
 
 ![PST example]( https://github.com/bemoregt/ofxPhaseStretchF/blob/master/test.jpg "example")
 
-![PST example]( https://github.com/bemoregt/ofxPhaseStretchF/blob/master/test.jpg "example2")
+![PST example]( https://github.com/bemoregt/ofxPhaseStretchF/blob/master/ScrShot.png "example2")
 
 ### Dependency
 - OpenFrameworks 0.10.1
