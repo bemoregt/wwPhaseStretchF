@@ -1,4 +1,4 @@
-# ofxPhaseStretchF
+# wwPhaseStretchF
 Phase stretch filter for Openframeworks using ofxOpenCv
 
 ![PST example]( https://github.com/bemoregt/ofxPhaseStretchF/blob/master/test.jpg "example")
